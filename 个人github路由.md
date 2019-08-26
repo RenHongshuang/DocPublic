@@ -27,6 +27,14 @@ https://juejin.im/post/5d4bdb23e51d453c2577b747
 
 4.Jetpack MVVM 架构相关
 
+5.AOP android最佳用法
+https://www.jianshu.com/p/85678f228712
+
+https://www.jianshu.com/p/2779e3bb1f14
+
+
+
+
 
 
 ## JAVA 
