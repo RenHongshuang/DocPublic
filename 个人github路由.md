@@ -27,6 +27,18 @@ https://juejin.im/post/5d4bdb23e51d453c2577b747
 
 4.Jetpack MVVM 架构相关
 
+https://juejin.im/post/5c047fd3e51d45666017ff86  
+作者 ：却把青梅嗅 
+ViewModel源码解析 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了
+
+ViewModel源码解析 基于 androidx.lifecycle:lifecycle-extensions:2.0.0 的源码进行分析
+https://blog.csdn.net/xfhy_/article/details/88703853  
+作者： 潇风寒月 
+
+viewmodel 原理：
+https://juejin.im/post/5c047fd3e51d45666017ff86  却把青梅嗅 ViewModel源码解析 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了。
+https://blog.csdn.net/xfhy_/article/details/88703853 
+
 5.AOP android最佳用法
 
 https://www.jianshu.com/p/85678f228712
