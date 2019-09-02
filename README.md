@@ -26,18 +26,14 @@ https://github.com/dfqin/AndroidNativeEncryption
 https://juejin.im/post/5d4bdb23e51d453c2577b747
 
 4.Jetpack MVVM 架构相关
-
+ViewModel源码解析
 https://juejin.im/post/5c047fd3e51d45666017ff86  
 作者 ：却把青梅嗅 
-ViewModel源码解析 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了
+基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了
 
-ViewModel源码解析 基于 androidx.lifecycle:lifecycle-extensions:2.0.0 的源码进行分析
 https://blog.csdn.net/xfhy_/article/details/88703853  
 作者： 潇风寒月 
-
-viewmodel 原理：
-https://juejin.im/post/5c047fd3e51d45666017ff86  却把青梅嗅 ViewModel源码解析 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了。
-https://blog.csdn.net/xfhy_/article/details/88703853 
+基于 androidx.lifecycle:lifecycle-extensions:2.0.0 的源码进行分析
 
 5.AOP android最佳用法
 
@@ -46,7 +42,6 @@ https://www.jianshu.com/p/85678f228712
 https://www.jianshu.com/p/2779e3bb1f14
 
 https://blog.csdn.net/eclipsexys/article/details/54425414
-
 
 6. 插件化 腾讯Shadow
 https://juejin.im/post/5d331fa8f265da1bba593ff6
