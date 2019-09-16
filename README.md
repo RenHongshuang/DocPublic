@@ -34,6 +34,9 @@ https://juejin.im/post/5c047fd3e51d45666017ff86
 作者 ：却把青梅嗅 
 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了
 
+databinding
+https://juejin.im/post/5d5663f7f265da03bf0f3e3c
+
 https://blog.csdn.net/xfhy_/article/details/88703853  
 作者： 潇风寒月 
 基于 androidx.lifecycle:lifecycle-extensions:2.0.0 的源码进行分析
