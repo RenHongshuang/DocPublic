@@ -55,7 +55,8 @@ https://www.jianshu.com/p/2b19e9bcda84
 7. 插件化 腾讯Shadow
 https://juejin.im/post/5d331fa8f265da1bba593ff6
 
-
+8.volitale
+https://www.cnblogs.com/xrq730/p/7048693.html
 
 ## JAVA 
 
