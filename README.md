@@ -83,10 +83,17 @@ https://www.jianshu.com/p/2979732fb6fb
 
 3.
 
-### 算法
+## 算法
 
 1.
 
 2.
 
 3.
+## 工具
+1.在线画图工具
+https://www.processon.com/
+https://www.draw.io/
+https://www.zenflowchart.com/?ref=appin
+2.任务管理工具
+worklite
