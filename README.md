@@ -13,7 +13,6 @@ https://www.cnblogs.com/han-1034683568/p/7682594.html
 https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
 
 
-
 ## Android 
 
 1.android常用utils
@@ -58,13 +57,11 @@ https://juejin.im/post/5d331fa8f265da1bba593ff6
 8.volitale
 https://www.cnblogs.com/xrq730/p/7048693.html
 
-## JAVA 
-
-1.
-
-2.
-
-3.
+9.RxJava
+玉刚说:
+https://juejin.im/post/5b17560e6fb9a01e2862246f
+抛物线:
+https://gank.io/post/560e15be2dca930e00da1083
 
 ## Kotlin 
 
