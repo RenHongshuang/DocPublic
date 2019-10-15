@@ -64,6 +64,8 @@ https://juejin.im/post/5b17560e6fb9a01e2862246f
 https://gank.io/post/560e15be2dca930e00da1083
 Carson_Ho:背压策略
 https://www.jianshu.com/p/ceb48ed8719d
+却把青梅嗅 autodisposable
+https://blog.csdn.net/mq2553299/article/details/79418068
 
 ## Kotlin 
 
