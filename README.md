@@ -62,6 +62,8 @@ https://www.cnblogs.com/xrq730/p/7048693.html
 https://juejin.im/post/5b17560e6fb9a01e2862246f
 抛物线:
 https://gank.io/post/560e15be2dca930e00da1083
+Carson_Ho:背压策略
+https://www.jianshu.com/p/ceb48ed8719d
 
 ## Kotlin 
 
