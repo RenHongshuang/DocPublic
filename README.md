@@ -85,12 +85,8 @@ https://www.jianshu.com/p/76d2f47b900d
 3.
 
 ## 算法
-
-1.
-
-2.
-
-3.
+自己的总结
+https://github.com/RenHongshuang/arithmetic
 ## 工具
 1.在线画图工具
 https://www.processon.com/
