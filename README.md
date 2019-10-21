@@ -40,43 +40,43 @@ https://blog.csdn.net/xfhy_/article/details/88703853
 作者： 潇风寒月 
 基于 androidx.lifecycle:lifecycle-extensions:2.0.0 的源码进行分析
 
-5.AOP android最佳用法
+5.AOP android最佳用法 
 
-https://www.jianshu.com/p/85678f228712
+https://www.jianshu.com/p/85678f228712 
 
-https://www.jianshu.com/p/2779e3bb1f14
+https://www.jianshu.com/p/2779e3bb1f14 
 
 https://blog.csdn.net/eclipsexys/article/details/54425414
 
 6.RecyclerView 回收复用原理
 https://www.jianshu.com/p/2b19e9bcda84 
 
-7. 插件化 腾讯Shadow
-https://juejin.im/post/5d331fa8f265da1bba593ff6
+7. 插件化 腾讯Shadow 
+https://juejin.im/post/5d331fa8f265da1bba593ff6 
 
-8.volitale
-https://www.cnblogs.com/xrq730/p/7048693.html
+8.volitale 
+https://www.cnblogs.com/xrq730/p/7048693.html 
 
-9.RxJava
+9.RxJava 
 玉刚说:
-https://juejin.im/post/5b17560e6fb9a01e2862246f
+https://juejin.im/post/5b17560e6fb9a01e2862246f 
 抛物线:
-https://gank.io/post/560e15be2dca930e00da1083
+https://gank.io/post/560e15be2dca930e00da1083 
 Carson_Ho:背压策略
-https://www.jianshu.com/p/ceb48ed8719d
+https://www.jianshu.com/p/ceb48ed8719d 
 却把青梅嗅 autodisposable
-https://blog.csdn.net/mq2553299/article/details/79418068
+https://blog.csdn.net/mq2553299/article/details/79418068 
 10.Android 性能优化
-https://juejin.im/post/5d95f4a4f265da5b8f10714b
+https://juejin.im/post/5d95f4a4f265da5b8f10714b 
 
 ## Kotlin 
 
 1.协程
-https://www.jianshu.com/p/2979732fb6fb
+https://www.jianshu.com/p/2979732fb6fb 
 
-https://www.jianshu.com/p/76d2f47b900d
+https://www.jianshu.com/p/76d2f47b900d 
 
-https://juejin.im/post/5d5d5aac51882549be53b75b  关注一下这个作者的几篇文章
+https://juejin.im/post/5d5d5aac51882549be53b75b  关注一下这个作者的几篇文章 
 
 ## 设计模式 
 
