@@ -90,6 +90,10 @@ https://juejin.im/post/5dac91296fb9a04e270fb204
 ## 算法
 自己的总结
 https://github.com/RenHongshuang/arithmetic
+
+## 英语学习
+https://www.jianshu.com/p/a4d031ee3f55 
+
 ## 工具
 1.在线画图工具
 https://www.processon.com/
