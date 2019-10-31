@@ -71,6 +71,7 @@ https://blog.csdn.net/mq2553299/article/details/79418068
 https://juejin.im/post/5d95f4a4f265da5b8f10714b 
 
 11.Dragger 
+https://www.jianshu.com/p/1d84ba23f4d2  很好理解的文章
 https://mp.weixin.qq.com/s/fatc5Q8z68p6ZOV70-OBQg 
 
 ## Kotlin 
