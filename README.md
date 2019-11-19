@@ -87,6 +87,11 @@ https://www.jianshu.com/p/76d2f47b900d
 
 https://juejin.im/post/5d5d5aac51882549be53b75b  关注一下这个作者的几篇文章 
 
+## Java
+
+1.线程
+https://www.cnblogs.com/wxd0108/p/5479442.html
+
 
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
