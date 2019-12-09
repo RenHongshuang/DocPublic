@@ -75,18 +75,18 @@ https://www.jianshu.com/p/1d84ba23f4d2  很好理解的文章
 https://mp.weixin.qq.com/s/fatc5Q8z68p6ZOV70-OBQg 
 
 
-12.内存优化
-https://www.2cto.com/kf/201510/445485.html
+12.内存优化 
+https://www.2cto.com/kf/201510/445485.html 
 
-13. App架构开发指南(翻译)
-http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0523/7963.html
+13. App架构开发指南(翻译) 
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0523/7963.html 
 
-14. 代替drager2的依赖注入框架 Koin
-https://www.jianshu.com/p/80c4852cbd95   koin 关于viewmodel
-https://blog.csdn.net/u012122009/article/details/88364848 
-目前koin的原理文章不多，官网没有很好的介绍，这篇文章段尾，说明了大概方向是函数拓展，但是还不尽然
+14. 代替drager2的依赖注入框架 Koin 
+https://www.jianshu.com/p/80c4852cbd95   koin 关于viewmodel 
+https://blog.csdn.net/u012122009/article/details/88364848  
+目前koin的原理文章不多，官网没有很好的介绍，这篇文章段尾，说明了大概方向是函数拓展，但是还不尽然 
 
-我理解是这个框架 存了一个全局的并且知道如何创建所依赖注入类的方法实例的仓库，当需要注入时，就去这个仓库去查怎么创建实例并注入
+我理解是这个框架 存了一个全局的并且知道如何创建所依赖注入类的方法实例的仓库，当需要注入时，就去这个仓库去查怎么创建实例并注入 
 
 
 ## Kotlin 
@@ -107,6 +107,10 @@ https://www.jianshu.com/p/f65ea68a4a7f  关注此人的其他文章
 
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
+
+flutter 实战
+https://book.flutterchina.club/chapter1/dart.html 
+
 
 ## 设计模式 
 
