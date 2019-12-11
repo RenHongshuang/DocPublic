@@ -89,6 +89,9 @@ https://blog.csdn.net/u012122009/article/details/88364848
 我理解是这个框架 存了一个全局的并且知道如何创建所依赖注入类的方法实例的仓库，当需要注入时，就去这个仓库去查怎么创建实例并注入 
 
 
+15.Jni
+https://www.jianshu.com/p/87ce6f565d37 (错别字比较多，但是适合入门)
+
 ## Kotlin 
 
 1.协程 
