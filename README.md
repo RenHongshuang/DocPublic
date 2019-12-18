@@ -117,6 +117,11 @@ flutter 实战
 https://book.flutterchina.club/chapter1/dart.html 
 
 
+
+## 开发常见的坑
+https://www.jianshu.com/p/ec09dc60061e  组件化后，尽量不用Databinding.
+
+
 ## 设计模式 
 
 待更新
