@@ -122,6 +122,9 @@ https://juejin.im/post/5dac91296fb9a04e270fb204
 flutter 实战
 https://book.flutterchina.club/chapter1/dart.html 
 
+flutter 原理分析 gityuan  
+http://gityuan.com/flutter/
+
 
 
 ## 开发常见的坑
