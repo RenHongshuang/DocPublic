@@ -126,6 +126,9 @@ flutter 原理分析 gityuan
 http://gityuan.com/flutter/
 
 
+Dart
+https://www.jianshu.com/p/9e5f4c81cc7d
+
 
 ## 开发常见的坑
 https://www.jianshu.com/p/ec09dc60061e  组件化后，尽量不用Databinding.
