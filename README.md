@@ -104,6 +104,9 @@ materialviewpager
 
 17.viewpager
 https://juejin.im/post/5a4c2f496fb9a044fd122631 用法
+https://juejin.im/post/5df4aabe6fb9a0161104c8eb viewpager2 新特性介绍
+https://github.com/android/views-widgets-samples 谷歌官方的例子
+https://github.com/youth5201314/banner 基于viewpager2的开源框架9.4K star
 
 ## Kotlin 
 
