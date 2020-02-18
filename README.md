@@ -108,6 +108,13 @@ https://juejin.im/post/5df4aabe6fb9a0161104c8eb viewpager2 新特性介绍
 https://github.com/android/views-widgets-samples 谷歌官方的例子
 https://github.com/youth5201314/banner 基于viewpager2的开源框架9.4K star
 
+18. 插件化
+https://github.com/tiann/understand-plugin-framework
+
+19.热更新
+book <<深入探索Android热修复技术原理>> 
+https://www.jianshu.com/p/19d92329d9f2
+
 ## Kotlin 
 
 1.协程 
