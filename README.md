@@ -112,7 +112,8 @@ https://github.com/youth5201314/banner 基于viewpager2的开源框架9.4K star
 https://github.com/tiann/understand-plugin-framework
 
 19.热更新
-book <<深入探索Android热修复技术原理>> 
+book <<深入探索Android热修复技术原理>> https://github.com/feelschaotic/AndroidKnowledgeSystem/blob/master/7.%20%E8%BF%9B%E9%98%B6/%E5%8A%A8%E6%80%81%E5%8C%96/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2Android%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86.pdf
+
 https://www.jianshu.com/p/19d92329d9f2
 
 ## Kotlin 
