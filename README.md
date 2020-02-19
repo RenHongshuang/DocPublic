@@ -12,6 +12,10 @@ https://www.cnblogs.com/han-1034683568/p/7682594.html
 3.谷歌面试大学jwasham/coding-interview-university  
 https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md 
 
+4.成为android专家
+https://www.zhihu.com/question/37549641/answer/83217748
+https://zhuanlan.zhihu.com/p/20708611
+
 
 ## Android  
 
