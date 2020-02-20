@@ -122,6 +122,10 @@ book <<深入探索Android热修复技术原理>> https://github.com/feelschaoti
 
 https://www.jianshu.com/p/19d92329d9f2
 
+20 Binder
+http://weishu.me/2016/01/12/binder-index-for-newer/
+
+
 ## Kotlin 
 
 1.协程 
