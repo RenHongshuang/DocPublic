@@ -197,3 +197,6 @@ https://baijiahao.baidu.com/s?id=1603297934363840853&wfr=spider&for=pc
 
 3.Android开发工具大全
 https://www.androiddevtools.cn/
+
+4.大厂分享 
+https://www.wanandroid.com/article/list_by_chapter/1?cid=510
