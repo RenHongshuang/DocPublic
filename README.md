@@ -147,6 +147,9 @@ https://www.jianshu.com/p/f65ea68a4a7f  关注此人的其他文章
 
 https://juejin.im/post/5d45a75de51d4561ee1bdf10#heading-30  比较全面的线程知识 
 
+2.volatile
+https://www.infoq.cn/article/ftf-java-volatile 
+
 
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
