@@ -125,6 +125,8 @@ https://www.jianshu.com/p/19d92329d9f2
 20 Binder
 http://weishu.me/2016/01/12/binder-index-for-newer/
 
+21. 如何调试Android fw
+http://weishu.me/2017/01/14/how-to-debug-android-native-framework-source/
 
 ## Kotlin 
 
