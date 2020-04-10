@@ -166,6 +166,9 @@ https://book.flutterchina.club/chapter1/dart.html
 flutter 原理分析 gityuan  
 http://gityuan.com/flutter/
 
+flutter 异步
+https://juejin.im/post/5c898b4af265da2de25bcc2d
+
 
 Dart
 https://www.jianshu.com/p/9e5f4c81cc7d
