@@ -141,6 +141,10 @@ https://juejin.im/post/5d5d5aac51882549be53b75b  关注一下这个作者的几�
 
 https://www.bennyhuo.com/  应该也不错
 
+2.Kotlin的单例模式
+https://www.jianshu.com/p/5797b3d0ebd0
+
+
 ## Java
 
 1.线程
