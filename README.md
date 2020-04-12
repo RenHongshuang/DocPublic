@@ -156,6 +156,9 @@ https://juejin.im/post/5d45a75de51d4561ee1bdf10#heading-30  比较全面的线�
 2.volatile
 https://www.infoq.cn/article/ftf-java-volatile 
 
+3.java并发
+CAS
+https://www.jianshu.com/p/ab2c8fce878b
 
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
