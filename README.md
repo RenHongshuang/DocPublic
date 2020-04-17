@@ -237,3 +237,7 @@ https://www.wanandroid.com/article/list_by_chapter/1?cid=510
 5.下载电子书
 别:
 https://www.yunpanjingling.com/
+
+6.面试总结
+https://www.jianshu.com/p/c70989bd5f29
+https://www.jianshu.com/p/a2b3831fbf2e
