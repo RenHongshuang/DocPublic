@@ -166,6 +166,9 @@ https://www.jianshu.com/p/ab2c8fce878b
 4.动态代理
 https://www.jianshu.com/p/5dc416ea58a2
 
+5.生产者消费者的几种模式
+https://www.jianshu.com/p/ab013a4d5878
+
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
 
