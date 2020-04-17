@@ -169,6 +169,9 @@ https://www.jianshu.com/p/5dc416ea58a2
 5.生产者消费者的几种模式
 https://www.jianshu.com/p/ab013a4d5878
 
+6.static
+https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/basic/final,static,this,super.md
+
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
 
