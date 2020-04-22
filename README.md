@@ -134,7 +134,7 @@ https://www.jianshu.com/p/46d174f37e82  归根结底还是编译时生成，注�
 23.自定义view
 https://www.jianshu.com/p/760374ece737 
 https://www.jianshu.com/p/9862cddca1b3 双缓冲机制一定要知道
-再看看carson_ho的文章
+https://www.jianshu.com/nb/9976005  carson_ho
 
 ## Kotlin 
 
