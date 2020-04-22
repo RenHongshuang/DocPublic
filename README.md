@@ -132,8 +132,8 @@ http://weishu.me/2017/01/14/how-to-debug-android-native-framework-source/
 https://www.jianshu.com/p/46d174f37e82  归根结底还是编译时生成，注解，动态代理，反射，注入等技术的综合运用。
 
 23.自定义view
-https://www.jianshu.com/p/760374ece737
-https://www.jianshu.com/p/9862cddca1b3
+https://www.jianshu.com/p/760374ece737 
+https://www.jianshu.com/p/9862cddca1b3 双缓冲机制一定要知道
 再看看carson_ho的文章
 
 ## Kotlin 
