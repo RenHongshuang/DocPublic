@@ -136,6 +136,9 @@ https://www.jianshu.com/p/760374ece737
 https://www.jianshu.com/p/9862cddca1b3 双缓冲机制一定要知道
 https://www.jianshu.com/nb/9976005  carson_ho
 
+24.gradle
+http://liuwangshu.cn/application/gradle/1-study-gradle.html 刘望舒
+
 ## Kotlin 
 
 1.协程 
