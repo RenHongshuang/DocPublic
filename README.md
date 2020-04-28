@@ -139,6 +139,11 @@ https://www.jianshu.com/nb/9976005  carson_ho
 24.gradle
 http://liuwangshu.cn/application/gradle/1-study-gradle.html 刘望舒
 
+关于gradle还是看那两本书吧.
+
+25.安全 TEE
+https://www.freebuf.com/author/%E5%AE%89%E5%B0%8F%E7%99%BD 
+
 ## Kotlin 
 
 1.协程 
