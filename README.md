@@ -190,6 +190,10 @@ https://www.jianshu.com/p/ab013a4d5878
 6.static
 https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/basic/final,static,this,super.md
 
+7 hashmap 扩容问题
+https://blog.csdn.net/qq_36071795/article/details/83655055
+2的n次方-1，二进制是111111.按位与之后，正好等于去模运算。  尽量避免了hash碰撞
+
 ## flutter
 https://juejin.im/post/5dac91296fb9a04e270fb204 
 
