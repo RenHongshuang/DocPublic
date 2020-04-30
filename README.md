@@ -18,8 +18,8 @@ https://juejin.im/post/5e5bd0d2e51d4526e807f55f#heading-12
 3.LiveData
 https://juejin.im/post/5ce54c2be51d45106343179d
 
-
-
+4.Event .SingleLiveEevent  .之前一直收藏的meideum文章，有人翻译了.
+https://juejin.im/post/5b2b1b2cf265da5952314b63
 
 
 ## 程序员的修养
