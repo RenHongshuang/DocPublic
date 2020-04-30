@@ -144,6 +144,9 @@ http://liuwangshu.cn/application/gradle/1-study-gradle.html 刘望舒
 25.安全 TEE
 https://www.freebuf.com/author/%E5%AE%89%E5%B0%8F%E7%99%BD 
 
+26.android领域的一些新动态 秉心说
+https://juejin.im/search?query=%E7%A7%89%E5%BF%83%E8%AF%B4&type=all 
+
 ## Kotlin 
 
 1.协程 
