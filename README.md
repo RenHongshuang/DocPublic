@@ -42,6 +42,10 @@ https://juejin.im/post/5d4bdb23e51d453c2577b747
 
 4.Jetpack MVVM 架构相关
 ViewModel源码解析
+这篇是基于目前最新源码的分析，讲清楚了viewmodel 何时viewmodel 被清除，以及存在哪的问题
+https://juejin.im/post/5e5bd0d2e51d4526e807f55f#heading-12 
+
+这篇有点过时了,不过思路可以参考
 https://juejin.im/post/5c047fd3e51d45666017ff86   
 作者 ：却把青梅嗅  
 基于lifecycle1.1  但是2.0版本已经没有文中的holderfragment了 
