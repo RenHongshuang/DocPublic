@@ -4,6 +4,24 @@
 https://juejin.im/post/5ea2ab266fb9a03c82234a9f#heading-1
 
 
+#自己收集
+
+## Mvvm Jetpack
+
+1.Lifecycle
+刘望舒的文章
+http://liuwangshu.cn/application/jetpack/3-lifecycle-theory.html 
+讲清楚了如何处理注解，生命周期event和state,反射回调observer的方法
+
+2.viewmodel
+ViewModel源码解析
+这篇是基于目前最新源码的分析，讲清楚了viewmodel 何时viewmodel 被清除，以及存在哪的问题
+https://juejin.im/post/5e5bd0d2e51d4526e807f55f#heading-12 
+
+
+
+
+
 
 ## 程序员的修养
 
