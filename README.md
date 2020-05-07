@@ -21,6 +21,16 @@ https://juejin.im/post/5ce54c2be51d45106343179d
 4.Event .SingleLiveEevent  .之前一直收藏的meideum文章，有人翻译了.
 https://juejin.im/post/5b2b1b2cf265da5952314b63
 
+5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
+6.艺术探索 补缺 aidl binder
+7.java并发编程的艺术 
+8.Jvm 相关的carson_ho 进阶解密，webview相关 recycler view相关
+9.设计模式和算法
+10.kotlin 协程
+11.flutter 官网，flutter原理Gityuan
+12.面试总结
+13.性能优化
+
 
 ## 程序员的修养
 
