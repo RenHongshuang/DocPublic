@@ -44,6 +44,7 @@ https://zhuanlan.zhihu.com/p/20708611
 
 0.官方开发指南
 https://developer.android.google.cn/guide
+http://hukai.me/android-training-course-in-chinese/index.html 官方教程翻译版本
 
 1.android常用utils 
 
