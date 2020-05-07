@@ -244,6 +244,12 @@ https://www.jianshu.com/p/9e5f4c81cc7d
 ## uni-app
 https://uniapp.dcloud.io/
 
+
+
+##Liunx 
+http://akaedu.github.io/book/  Liunx C 编程来源于Gityuan的博客
+
+
 ## 后端开发
 https://www.bilibili.com/video/av47952931?p=27  spring 黑马视频教程
 
