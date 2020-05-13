@@ -1,7 +1,7 @@
 
 ## 面试总结系列
 
-https://juejin.im/post/5ea2ab266fb9a03c82234a9f#heading-1
+https://juejin.im/post/5ea2ab266fb9a03c82234a9f#heading-1 
 https://www.jianshu.com/p/ecbf69ee7641
 
 ## Mvvm Jetpack
@@ -22,6 +22,7 @@ https://juejin.im/post/5ce54c2be51d45106343179d
 4.Event .SingleLiveEevent  .之前一直收藏的meideum文章，有人翻译了.
 https://juejin.im/post/5b2b1b2cf265da5952314b63
 
+5.关注一下这个小伙儿的文章https://www.jianshu.com/u/ae6d42bbd950  主要跟我的目前的技术比较搭
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
