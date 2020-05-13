@@ -2,6 +2,7 @@
 ## 面试总结系列
 
 https://juejin.im/post/5ea2ab266fb9a03c82234a9f#heading-1
+https://www.jianshu.com/p/ecbf69ee7641
 
 ## Mvvm Jetpack
 
