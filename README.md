@@ -23,6 +23,10 @@ https://juejin.im/post/5ce54c2be51d45106343179d
 https://juejin.im/post/5b2b1b2cf265da5952314b63
 
 5.关注一下这个小伙儿的文章https://www.jianshu.com/u/ae6d42bbd950  主要跟我的目前的技术比较搭
+
+6.https 看完彻底明白
+https://www.jianshu.com/p/9038e6899d0f
+
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
