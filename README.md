@@ -27,6 +27,9 @@ https://juejin.im/post/5b2b1b2cf265da5952314b63
 6.https 看完彻底明白
 https://www.jianshu.com/p/9038e6899d0f
 
+7.Jvm 图不错，类加载子系统，运行时数据区，执行引擎 栈帧 对象头
+https://mp.weixin.qq.com/s/S1Jcm1YOyEPRZpvB0DlPDQ
+
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
