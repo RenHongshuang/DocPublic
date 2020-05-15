@@ -35,6 +35,9 @@ https://mp.weixin.qq.com/s/S1Jcm1YOyEPRZpvB0DlPDQ
 主要看秉心说的三篇文章以及escape自己写的demo
 协程原理 https://blog.csdn.net/suyimin2010/article/details/91125803 涉及语言层面对supend关键字的优化，将挂起代码封装成类，并缓存，有状态机负责resume挂起点之后的代码，实在线程池上封装，续体拦截器负责指定恢复代码应该执行在哪个线程。
 
+9.room 
+https://www.jianshu.com/p/3e358eb9ac43
+
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
