@@ -38,6 +38,9 @@ https://mp.weixin.qq.com/s/S1Jcm1YOyEPRZpvB0DlPDQ
 9.room 
 https://www.jianshu.com/p/3e358eb9ac43
 
+10.性能优化  jsonchao系列文章
+https://juejin.im/post/5eb168e9f265da7bb65fb27a
+
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
