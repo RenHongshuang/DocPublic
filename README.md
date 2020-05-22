@@ -206,6 +206,9 @@ https://www.freebuf.com/author/%E5%AE%89%E5%B0%8F%E7%99%BD
 26.android领域的一些新动态 秉心说
 https://juejin.im/search?query=%E7%A7%89%E5%BF%83%E8%AF%B4&type=all 
 
+28.捕获andorid异常，上报的实现
+https://www.jianshu.com/p/457a4783fe6f
+
 ## Kotlin 
 
 1.协程 
