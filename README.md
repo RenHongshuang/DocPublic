@@ -14,6 +14,7 @@ http://liuwangshu.cn/application/jetpack/3-lifecycle-theory.html
 2.viewmodel
 ViewModel源码解析
 这篇是基于目前最新源码的分析，讲清楚了viewmodel 何时viewmodel 被清除，以及存在哪的问题
+https://www.jianshu.com/p/731ca42823ee
 https://juejin.im/post/5e5bd0d2e51d4526e807f55f#heading-12 
 
 3.LiveData
