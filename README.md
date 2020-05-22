@@ -3,6 +3,7 @@
 
 https://juejin.im/post/5ea2ab266fb9a03c82234a9f#heading-1 
 https://www.jianshu.com/p/ecbf69ee7641
+https://juejin.im/post/5eb01866f265da7b9c24562c
 
 ## Mvvm Jetpack
 
