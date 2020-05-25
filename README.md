@@ -209,6 +209,9 @@ https://juejin.im/search?query=%E7%A7%89%E5%BF%83%E8%AF%B4&type=all
 28.捕获andorid异常，上报的实现
 https://www.jianshu.com/p/457a4783fe6f
 
+29.性能优化 付费课程
+https://time.geekbang.org/column/intro/100021101
+
 ## Kotlin 
 
 1.协程 
