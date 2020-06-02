@@ -41,6 +41,8 @@ https://www.jianshu.com/p/3e358eb9ac43
 
 10.性能优化  jsonchao系列文章
 https://juejin.im/post/5eb168e9f265da7bb65fb27a
+https://mp.weixin.qq.com/s/3QhMGVIcR1yW3xweJCa-9Q
+极客时间android开发高手课
 
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
