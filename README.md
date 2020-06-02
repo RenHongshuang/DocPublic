@@ -280,6 +280,7 @@ flutter 另外一本电子书
 https://www.kancloud.cn/alex_wsc/flutter_demo/1563027
 
 Dart
+https://www.dartcn.com/guides/language/effective-dart/
 https://www.jianshu.com/p/9e5f4c81cc7d
 
 ## uni-app
