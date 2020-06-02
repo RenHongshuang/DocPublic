@@ -276,6 +276,8 @@ http://gityuan.com/flutter/
 flutter 异步
 https://juejin.im/post/5c898b4af265da2de25bcc2d
 
+flutter 另外一本电子书
+https://www.kancloud.cn/alex_wsc/flutter_demo/1563027
 
 Dart
 https://www.jianshu.com/p/9e5f4c81cc7d
