@@ -286,6 +286,10 @@ Dart
 https://www.dartcn.com/guides/language/effective-dart/
 https://www.jianshu.com/p/9e5f4c81cc7d
 
+flutter Mvvm
+https://www.jianshu.com/p/ce011acad64e
+https://www.jianshu.com/p/43eb17163468
+
 ## uni-app
 https://uniapp.dcloud.io/
 
