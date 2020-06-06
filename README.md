@@ -44,6 +44,10 @@ https://juejin.im/post/5eb168e9f265da7bb65fb27a
 https://mp.weixin.qq.com/s/3QhMGVIcR1yW3xweJCa-9Q
 极客时间android开发高手课
 
+11.Windows 和 view 添加流程
+https://blog.csdn.net/freekiteyu/article/details/79408969
+
+
 5.Anroid进阶解密结合Gityuan的文章看 Android系统启动，activity 启动，ams相关，
 6.艺术探索 补缺 aidl binder
 7.java并发编程的艺术 
