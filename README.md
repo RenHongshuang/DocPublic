@@ -304,7 +304,9 @@ https://www.jianshu.com/p/43eb17163468
 ## uni-app
 https://uniapp.dcloud.io/
 
-
+## mPaas 支付宝架构
+https://blog.csdn.net/weixin_44326589/article/details/92773742
+https://help.aliyun.com/document_detail/49549.html
 
 ##Liunx 
 http://akaedu.github.io/book/  Liunx C 编程来源于Gityuan的博客
