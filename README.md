@@ -308,6 +308,8 @@ https://uniapp.dcloud.io/
 https://blog.csdn.net/weixin_44326589/article/details/92773742
 https://help.aliyun.com/document_detail/49549.html
 
+蚂蚁金服 mPaaS、Google Firebase、AWS Mobile Hub 等
+
 ##Liunx 
 http://akaedu.github.io/book/  Liunx C 编程来源于Gityuan的博客
 
