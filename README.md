@@ -194,7 +194,8 @@ http://weishu.me/2016/01/12/binder-index-for-newer/
 http://weishu.me/2017/01/14/how-to-debug-android-native-framework-source/
 
 22.Arouter 原理
-https://www.jianshu.com/p/46d174f37e82  归根结底还是编译时生成，注解，动态代理，反射，注入等技术的综合运用。
+https://www.jianshu.com/p/857aea5b54a8
+通过注解处理器apt技术编译时生成路由映射表
 
 23.自定义view
 https://www.jianshu.com/p/760374ece737 
