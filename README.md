@@ -311,6 +311,11 @@ https://help.aliyun.com/document_detail/49549.html
 
 蚂蚁金服 mPaaS、Google Firebase、AWS Mobile Hub 等
 
+## 容器化架构
+1.android app bundle https://www.jianshu.com/p/0c551eaa2020
+2.支付宝客户端架构解析 https://www.jianshu.com/p/b7ee3538936d
+3.美团外卖容器化 https://mp.weixin.qq.com/s/kW5wu7GM7pMRRvN-dQvE2g 
+
 ##Liunx 
 http://akaedu.github.io/book/  Liunx C 编程来源于Gityuan的博客
 
