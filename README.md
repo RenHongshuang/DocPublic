@@ -378,3 +378,6 @@ https://www.jianshu.com/p/c70989bd5f29
 https://www.jianshu.com/p/a2b3831fbf2e
 https://www.jianshu.com/p/b3c1b9c6dd40  看看这个..
 
+7.面试准备问题
+https://leetcode-cn.com/circle/discuss/5szs6p/
+
