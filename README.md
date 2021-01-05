@@ -227,6 +227,14 @@ https://time.geekbang.org/column/intro/100021101
 31.hutool
 https://www.hutool.cn/
 
+32
+编译插桩的三种方法：AspectJ、ASM、ReDex
+https://time.geekbang.org/column/article/82761
+
+hugo的一种？
+https://github.com/lijiankun24/Koala
+
+
 ## Kotlin 
 
 1.协程 
