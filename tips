@@ -1,0 +1,6 @@
+tips
+
+
+1.解决Glide加载Gif非常慢问题
+Glide.with(MainActivity.this).load(url).asGif().diskCacheStrategy(DiskCacheStrategy.SOURCE).into(imageView); 
+为其添加缓存策略,其中缓存策略可以为:Source及None,None及为不缓存,Source缓存原型.如果为ALL和Result就不行
