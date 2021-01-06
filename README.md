@@ -147,6 +147,8 @@ https://juejin.im/post/5d95f4a4f265da5b8f10714b
 https://www.jianshu.com/p/1d84ba23f4d2  很好理解的文章
 https://mp.weixin.qq.com/s/fatc5Q8z68p6ZOV70-OBQg 
 
+依赖注入  服务定位器 两种实现依赖注入的思路
+
 
 12.内存优化 
 https://www.2cto.com/kf/201510/445485.html 
