@@ -235,6 +235,11 @@ hugo的一种？
 https://github.com/lijiankun24/Koala
 
 
+32. 常用的SharedPreferences，其实存在很大的问题   
+https://mp.weixin.qq.com/s/TMvOEXiVg8mGtQHzORayZg  好文
+https://juejin.im/post/6884505736836022280
+
+
 ## Kotlin 
 
 1.协程 
