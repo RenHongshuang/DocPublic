@@ -18,7 +18,7 @@ ViewModel源码解析
 https://www.jianshu.com/p/731ca42823ee
 https://juejin.im/post/5e5bd0d2e51d4526e807f55f#heading-12 
 
-3.LiveData
+3.LiveData  目前这个篇livedata的分析的最好
 https://juejin.im/post/5ce54c2be51d45106343179d
 
 4.Event .SingleLiveEevent  .之前一直收藏的meideum文章，有人翻译了.
