@@ -3,4 +3,16 @@ tips
 
 1.解决Glide加载Gif非常慢问题
 Glide.with(MainActivity.this).load(url).asGif().diskCacheStrategy(DiskCacheStrategy.SOURCE).into(imageView); 
-为其添加缓存策略,其中缓存策略可以为:Source及None,None及为不缓存,Source缓存原型.如果为ALL和Result就不行
+
+2.中黑字体
+
+TextView tv = (TextView)findViewById(R.id.tv); 
+TextPaint tp = tv.getPaint(); 
+tp.setFakeBoldText(true); 
+
+也可以
+TextView tvTitle = findViewById(R.id.title);
+TextPaint  tp = tvTitle.getPaint();
+tp.setStrokeWidth(2.0f);
+tp.setStyle(Paint.Style.FILL_AND_STROKE);
+
