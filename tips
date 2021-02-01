@@ -47,4 +47,50 @@ https://www.zzzmode.com/mytools/charles/
 字节跳动适配方案：
 https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA
 
+8.如何获取apk md5值
+certutil -hashfile filename.apk MD5
+
+9.如何打印函数调用栈
+android.util.Log.d(TAG, "you log info", new RuntimeException());
+
+10.How to use WebP
+Using cwebp to Convert Images to the WebP Format Use cwebp on the command line to convert PNG or JPEG image files to WebP format. You can convert a PNG image file to a WebP image with a quality range of 80 with the command: 
+cwebp -q 80 image.png -o image.webp
+
+11.如何反混淆
+1.首先下载对应版本的mapping.txt文件
+2.进入以下目录 [sdk根目录]\tools\proguard\lib
+3.新建一个txt文件（如fc.txt），里面粘贴上要看的堆栈Log，注意要去掉之前的时间等信息，仅仅保留堆栈语句，如下： FATAL EXCEPTION: Thread-161 Process: com.samsung.android.spay, PID: 12504
+java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare()
+at android.os.Handler.(Handler.java:200)
+at android.os.Handler.(Handler.java:114)
+at android.widget.Toast$TN.(Toast.java:639)
+at android.widget.Toast.(Toast.java:131)
+at android.widget.Toast.makeText(Toast.java:434)
+at amy$2.run(Unknown Source)
+4.在这个位置启动命令行（按住Shift键，在空白处右键鼠标，出现 在此处打开命令窗口）
+5.输入 java -jar retrace.jar -verbose mapping.txt fc.txt > result.txt
+6.回车，即可生成result.txt文件，即为反混淆之后的Log
+5.如何列出手机中所有文件的方法
+如下命令的作用是列出手机/system目录下的所有文件信息，并保存到D盘system_list.txt文件中，可以方便的查找需要找到的app名字及所在位置
+adb shell ls -a -l -R /system > D:\system_list.txt
+
+12.抓系统log方法
+三星手机 *#9900#->rundumpstate→copy to sdcard log
+小米手机：*#*#284#*#*  →MIUI/bugreport
+华为手机：*#*#2846579#*#*   打开AP Log  然后 adb pull data/log/android_logs (adb pull data/anr/traces.txt)   C:\Users\e-HongShuang.Ren\Desktop\huaweilog  
+
+13.git 常用命令
+git log ,git log --graph ,git log --grep "关键字"
+git refog  配合上下键  ,git reflog show --date=iso
+git reset --hard  xxxx ,  git reset -hard HEAD , git reset --hard HEAD^
+git reset --mixed xxxx
+git cherry-pick xxxx
+git remote set-url origin --push --add "你的远程仓库地址"
+git tag <name> , git push origin <name>
+git stash save "save message" , git stash list , git stash show ,git stash apply stash@{0},git stash clear 
+git rebase xxxbranch
+git rebase -i
+
+
 
