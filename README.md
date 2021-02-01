@@ -64,7 +64,7 @@ https://www.jianshu.com/p/6bab50086ef9
 
 ## 程序员的修养
 
-1.<<代码整洁之道>> 读后感 
+1.<<代码整洁之道>> 读后感 同时关注一下原作者https://blog.csdn.net/AlpinistWang
 
 https://mp.weixin.qq.com/s/7ADpdhK6AJ5dkmGp0wXTtA https://blog.csdn.net/AlpinistWang 
 
