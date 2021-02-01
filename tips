@@ -40,4 +40,11 @@ https://www.cnblogs.com/hongyankuang/p/9961284.html
 破解方法
 https://www.zzzmode.com/mytools/charles/
 
+7.dp的理解
+
+160dp 在160dpi的设备上 显示160px
+160dp 在240dpi的设备上 显示240px
+字节跳动适配方案：
+https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA
+
 
