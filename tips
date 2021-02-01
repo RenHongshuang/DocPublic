@@ -28,9 +28,16 @@ tp.setStyle(Paint.Style.FILL_AND_STROKE);
         android:bottomRightRadius="2dip" />
 </shape>
 
-3.charles抓包
+4.如何让statusbar的时间和电源图标变成黑色
+<item name="android:windowLightStatusBar">true</item>
+
+5.查看mutidex 之后方法数的方法
+https://www.jianshu.com/p/9dc9eb263af0
+
+6.charles抓包
 配置方法
 https://www.cnblogs.com/hongyankuang/p/9961284.html
 破解方法
+https://www.zzzmode.com/mytools/charles/
 
-4.
+
