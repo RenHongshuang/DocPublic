@@ -1,4 +1,4 @@
-tips
+常用的开发tips
 
 
 1.解决Glide加载Gif非常慢问题
@@ -16,3 +16,21 @@ TextPaint  tp = tvTitle.getPaint();
 tp.setStrokeWidth(2.0f);
 tp.setStyle(Paint.Style.FILL_AND_STROKE);
 
+3.圆角矩形
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/white" />
+    <corners
+        android:topLeftRadius="2dip"
+        android:topRightRadius="2dip"
+        android:bottomLeftRadius="2dip"
+        android:bottomRightRadius="2dip" />
+</shape>
+
+3.charles抓包
+配置方法
+https://www.cnblogs.com/hongyankuang/p/9961284.html
+破解方法
+
+4.
